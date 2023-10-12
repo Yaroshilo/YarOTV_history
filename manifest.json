@@ -3,7 +3,7 @@
   "author": "Yaroshilo",
   "name": "Yaroshilo",
   "uniqueName": "[OWV].[your unique mod ID]",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "owmlVersion": "2.7.2",
   "dependencies": [ "xen.NewHorizons" ]
 }
